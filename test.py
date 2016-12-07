@@ -19,9 +19,7 @@ class Test:
         #    r.move(10)
         #    print 'x position ', r.getPose()[0]
 
-
         r.setWheelVelocities(10,5)
-
         print 'done!!'
 
 
